@@ -1,0 +1,7 @@
+{
+  "title": "S3 Office Collab",
+  "bucket": "my-team-files",
+  "region": "eu-west-1",
+  "lockBucket": false,
+  "presignMinutes": 60
+}

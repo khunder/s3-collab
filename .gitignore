@@ -1,0 +1,9 @@
+node_modules/
+dist/
+deploy/out/
+.env
+.env.*
+*.log
+
+CLAUDE.md
+.claude/
